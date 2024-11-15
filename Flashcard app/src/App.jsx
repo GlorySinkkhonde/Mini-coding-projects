@@ -1,15 +1,17 @@
+import React from 'react'
 import './App.css'
-import flashCards from "./assets/components/flashcards"
+import Flashcards from "./components/Flashcards"
 
 function App() {
 
   return (
     <>
       <h1>Flashcards.IO</h1>
-      <flashCards />
+      
+      
       
       <div className='f__container'>
-        <p>hey</p>
+      <    Flashcards /> 
       </div>
     </>
   )

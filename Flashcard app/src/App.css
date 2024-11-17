@@ -15,3 +15,9 @@ body{
     height: 85vh;
 }
 
+.header{
+    display: flex;
+    margin: 1rem;
+    justify-content: right;
+}
+

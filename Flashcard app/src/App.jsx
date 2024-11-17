@@ -6,12 +6,13 @@ function App() {
 
   return (
     <>
-      <h1>Flashcards.IO</h1>
-      
-      
+      <h1 className='header'>Flashcards.IO</h1>
       
       <div className='f__container'>
-      <    Flashcards /> 
+
+      <Flashcards /> 
+     
+
       </div>
     </>
   )

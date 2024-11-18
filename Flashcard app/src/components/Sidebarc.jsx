@@ -5,22 +5,27 @@ import "./Sidebar.css"
 const Sidebarc = () => {
     return (
         <div>
-            
-            <div className="sidebar__icon">
 
-                <div className="line1">
+            <div className="sidebar">
 
-                </div>
+                <div className="sidebar__icon">
 
-                <div className="line1">
+                    <div className="line1 line">
+
+                    </div>
+
+                    <div className="line2 line">
+                        
+                    </div>
+
+                    <div className="line3 line">
                     
                     </div>
 
-                    <div className="line1">
-                    
-                    </div>
+                 </div>
 
             </div>
+            
 
         </div>
     );

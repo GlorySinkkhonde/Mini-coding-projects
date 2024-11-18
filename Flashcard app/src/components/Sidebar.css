@@ -1,0 +1,23 @@
+.line1, .line2, .line3{
+    height: 2px;
+    width: 2rem;
+    background-color: white;
+    margin: .5rem;
+}
+
+.sidebar__icon{
+    margin: 1rem;
+    width: 2rem;
+    height: 2rem;
+}
+
+.sidebar__icon:hover{
+    cursor: pointer;
+}
+
+.sidebar{
+    background-color: red;
+    display: flex;
+    justify-content: left;
+    width: 17rem;
+}

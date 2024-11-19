@@ -6,7 +6,7 @@
 }
 
 .sidebar__icon{
-    margin: 1rem;
+    margin: -14.5rem 0;
     width: 2rem;
     height: 2rem;
 }
@@ -16,8 +16,7 @@
 }
 
 .sidebar{
+    margin-left: 0;
     background-color: red;
-    display: flex;
-    justify-content: left;
-    width: 17rem;
+    
 }

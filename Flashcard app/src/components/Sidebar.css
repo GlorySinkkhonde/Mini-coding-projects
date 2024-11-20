@@ -5,11 +5,11 @@
     margin: .5rem;
 }
 
-.sidebar__icon{
+/* .sidebar__icon{
     margin: -14.5rem 0;
     width: 2rem;
     height: 2rem;
-}
+} */
 
 .sidebar__icon:hover{
     cursor: pointer;

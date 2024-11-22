@@ -5,25 +5,13 @@ function Flashcards() {
 
     return (
       <>
-        <div className='flashcards' id='flashcard__1'>
 
-<h1>Hello, world</h1>
+      <div className="flashcards__container">
 
-        </div>
-
-        <div className='flashcards' id='flashcard__2'>
-
-        <h1>Hello, world</h1>
-
-        </div>
-
-        <div className='flashcards' id='flashcard__3'>
-
-        <h1>Hello, world</h1>
-
-        </div>
+        
 
 
+      </div>
         
       </>
     )

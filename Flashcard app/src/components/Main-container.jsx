@@ -9,10 +9,16 @@ const MainContainer = () => {
 
             <div className="main__container">
                 
+                <div className="sidebar_container">
+                    <Sidebarc />
+                </div>
 
-                <Sidebarc />
+                <div className="flashcard__wrapper">
+                    <Flashcards />
+                </div>
+                
 
-                <Flashcards />
+                
 
 
             </div>

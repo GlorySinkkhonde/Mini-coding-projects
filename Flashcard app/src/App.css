@@ -8,17 +8,10 @@ body{
     color: white;
 }
 
-.f__container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 85vh;
-}
-
 .header{
     display: flex;
     margin: 1rem;
     justify-content: right;
-
+    
 }
 

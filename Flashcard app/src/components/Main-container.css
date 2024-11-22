@@ -1,4 +1,15 @@
 .main__container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
+
+.sidebar_container{
+    background-color: blue;
+    width: 20%;
+}
+
+.flashcard__wrapper{
+    background-color: yellow;
+    width: 80%;
+}
+

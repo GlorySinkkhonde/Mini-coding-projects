@@ -13,13 +13,9 @@ function App() {
    
 
       <h1 className='header'>Flashcards.IO</h1>
-      
-      <div className='f__container'>
 
       <MainContainer />
      
-
-      </div>
     </>
   )
 }
